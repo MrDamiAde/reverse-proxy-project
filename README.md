@@ -14,14 +14,14 @@ This project runs two Flask web applications (`app1` and `app2`) behind a single
 
 ```bash
 docker-compose up --build -d
-
-##Visit in Browser
+```
+## Visit in Browser
 
 http://localhost/app1
 
 http://localhost/app2
 
-##Technologies Used
+## Technologies Used
 
 - Docker
 - Docker Compose
